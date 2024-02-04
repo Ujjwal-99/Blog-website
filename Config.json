@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/coding thunder",
+    "prod_uri": "mysql://root:@localhost/coding thunder",
+    "fb_url": "https://facebook.com/coding thunder",
+    "twi_url": "https://twitter.com/coding thunder",
+    "gh_url": "https://github.com/coding thunder",
+    "gmail-user": "kalkicode06@gmail.com",
+    "gmail-password": "iyvzvqlqwvhfynak",
+    "no_of_post": 5 ,
+    "about_text": "hi , I am Ujjwal .I am a programmer and I also plan to teaching programming",
+    "blog_name": "Coding Thunder",
+    "admin_user": "ujjwal",
+    "admin_password": "coding"
+  }
+
+
+}
